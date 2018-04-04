@@ -14,23 +14,26 @@ body {
 }
 
 h1 {
-	font-size: 25px;
+	font-size: 34px;
 }
 
 h2 {
-	font-size: 23px;
+	font-size: 26px;
+	border-bottom: 1px solid #e5e5e5;
+	padding-bottom: 6px;
+	margin-bottom: 18px;
 }
 
 h3 {
-	font-size: 21px;
+	font-size: 22px;
 }
 
 h4 {
-	font-size: 19px;
+	font-size: 18px;
 }
 
 h5 {
-	font-size: 16px;
+	font-size: 14px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -51,6 +54,7 @@ blockquote {
 	background-color: #fbfbfb;
 	padding-left: 8px;
 	padding-top: 6px;
+	margin-left: 0;
 }
 
 blockquote p {
